@@ -82,7 +82,7 @@
     "@uiw/react-codemirror": "^4.25.12",
     "@vitejs/plugin-react": "^6.1.2",
     "electron": "^44.7.2",
-    "electron-builder": "^26.15.3",
+    "electron-builder": "^26.18.0",
     "electron-vite": "^6.0.0",
     "lucide-react": "^1.57.0",
     "playwright-core": "^1.64.1",
@@ -90,7 +90,7 @@
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "typescript": "5.9",
-    "vite": "^8.3.4",
+    "vite": "^8.3.5",
     "vitest": "^5.0.5",
     "zustand": "^5.0.15"
   },
