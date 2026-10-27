@@ -58,11 +58,11 @@
     "curl-to-postmanv2": "^1.8.7",
     "grpc-js-reflection-client": "^1.4.2",
     "mqtt": "^5.16.1",
-    "openapi-to-postmanv2": "^6.4.0",
+    "openapi-to-postmanv2": "^6.4.1",
     "postman-code-generators": "^2.1.1",
     "postman-collection": "^5.3.1",
     "postman-collection-transformer": "^4.1.14",
-    "postman-runtime": "^7.56.1",
+    "postman-runtime": "^7.56.3",
     "socket.io-client": "^4.8.4",
     "ws": "^8.22.0"
   },
